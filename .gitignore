@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/static/
+/media/
+
+# Environment variables (CRITICAL)
+.env
+.venv
+secrets.py
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Redis / Celery
+*.dump.rdb
+
+# Logs
+*.log

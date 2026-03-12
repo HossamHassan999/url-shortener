@@ -1,0 +1,13 @@
+djangorestframework
+psycopg2-binary
+redis
+celery
+gunicorn
+drf-spectacular
+djangorestframework-simplejwt
+pytest
+pytest-django
+whitenoise
+djoser
+django-redis
+drf-spectacular
