@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-Production-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
+![roadmap](https://roadmap.sh/projects/url-shortening-service)
 **A scalable, production-ready URL Shortener API — with custom aliases, expiration, JWT auth, Redis caching, and deep click analytics.**
 
 [Features](#-features) • [Architecture](#️-architecture) • [Getting Started](#-getting-started) • [API Reference](#-api-reference) • [Caching](#-caching-strategy) • [Roadmap](#-roadmap)
